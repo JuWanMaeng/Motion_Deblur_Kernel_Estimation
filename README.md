@@ -16,11 +16,15 @@
 
 ## Motion blur kernel result
 
-![Untitled]fig/Kernel_results.png)
+<p align="center">
+<img src="fig/Kernel_results.png" width="800">
+</p>
 
 ## Perceptual quality
 
-![Untitled](fig/per_result.png)
+<p align="center">
+<img src="fig/per_result.png" width="800">
+</p>
 
 ## Acknowledgements
 The codes are built on [BlindDPS](https://github.com/BlindDPS/blind-dps) [1]. We thank the authors for sharing their codes.
