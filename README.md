@@ -2,17 +2,10 @@
 
 # Results
 
-## Architecture
-<p align="center">
-<img src="Untitled.png" width="1200">
-</p>
-Fig. 1 The overall framework of the proposed UFPNet for blind SR.
-
 
 ## Deblur result
-<p align="center">
-<img src="/fig/Untitled.png" width="1200">
-</p>
+![대체 텍스트](fig/Untitled.png)
+
 
 ## Motion blur kernel result
 
