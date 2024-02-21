@@ -3,9 +3,11 @@
 # Results
 
 
-## Deblur result
-![대체 텍스트](fig/Untitled.png)
 
+## Deblur result
+<p align="center">
+<img src="/fig/Untitled.png" width="1200">
+</p>
 
 ## Motion blur kernel result
 
