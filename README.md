@@ -3,8 +3,9 @@
 # Results
 
 ## Deblur result
+<p align="center">
+<img src="fig/Untitled.png" width="1200">
 
-![Untitled](/fig/Untitled.png)
 
 ## Motion blur kernel result
 
