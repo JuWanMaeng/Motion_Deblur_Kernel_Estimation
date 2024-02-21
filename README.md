@@ -4,7 +4,7 @@
 
 ## Deblur result
 
-![Untitled](fig/Untitled.png)
+![Untitled](/fig/Untitled.png)
 
 ## Motion blur kernel result
 
