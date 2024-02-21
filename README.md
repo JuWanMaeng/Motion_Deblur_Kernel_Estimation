@@ -4,7 +4,7 @@
 
 ## Deblur result
 <p align="center">
-<img src="fig/Untitled.png" width="1200">
+<img src="/fig/Untitled.png" width="1200">
 
 
 ## Motion blur kernel result
