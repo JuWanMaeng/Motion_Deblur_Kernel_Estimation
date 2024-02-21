@@ -1,0 +1,7 @@
+guidance_ch: 64
+learn_sigma: True
+use_scale_shift_norm: False
+# dropout: 0
+
+
+model_path: /raid/joowan/MSG/64_sigma_nonorm/best.pt

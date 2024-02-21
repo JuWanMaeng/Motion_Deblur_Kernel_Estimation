@@ -1,0 +1,7 @@
+guidance_ch: 64
+learn_sigma: True
+use_scale_shift_norm: True
+dropout: 0
+
+
+model_path: /raid/joowan/MSG/NAF_Unet_L2/best.pt

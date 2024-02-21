@@ -1,0 +1,20 @@
+kernel: motion
+kernel_size: 64
+intensity: 0.5
+
+conditioning:
+  method: ps
+  params:
+    scale: 0.3
+
+data:
+  name: ffhq
+  root: ./data/gopro_select/blur/
+
+measurement:
+  operator:
+    name: gopro_deblur
+
+  noise: 
+    name: gaussian
+    sigma: 0.02

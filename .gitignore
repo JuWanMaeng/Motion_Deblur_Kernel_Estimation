@@ -1,0 +1,5 @@
+*.png
+*.npy
+*.json
+*.pt
+*.ckpt
