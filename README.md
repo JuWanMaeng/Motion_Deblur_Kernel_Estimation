@@ -1,4 +1,4 @@
-# Blind Deblurring with motion blur kernel estimation by parallel diffusion models
+# Blind Deblurring with motion blur kernel estimation by parallel diffusion models (IPIU 2024)
 
 # Pipeline
 
