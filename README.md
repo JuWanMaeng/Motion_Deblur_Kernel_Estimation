@@ -1,5 +1,5 @@
 # Blind Deblurring with motion blur kernel estimation by parallel diffusion models (IPIU 2024)
-[IPIU2024_맹주완_논문.pdf](https://github.com/user-attachments/files/17594989/IPIU2024_._.pdf)
+# [IPIU2024_맹주완_논문.pdf](https://github.com/user-attachments/files/17594989/IPIU2024_._.pdf)
 
 # Pipeline
 
