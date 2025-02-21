@@ -30,5 +30,3 @@
 ## Acknowledgements
 The codes are built on [BlindDPS](https://github.com/BlindDPS/blind-dps) [1]. We thank the authors for sharing their codes.
 
-## References
-[1] Chung, Hyungjin, et al. "Parallel diffusion models of operator and image for blind inverse problems." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023.
